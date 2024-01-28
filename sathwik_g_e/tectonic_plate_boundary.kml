@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>tectonic_plate_boundary</name>
+	<gx:CascadingStyle kml:id="__managed_style_24D70C93DD2E84EF7545">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_10BE9E921C2E84EF7545">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B75EEFCFE2E84EF7545">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_10BE9E921C2E84EF7545</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_24D70C93DD2E84EF7545</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0BF06AF2802E84EF122D">
+		<name>tectonic_plate</name>
+		<LookAt>
+			<longitude>92.29067635011013</longitude>
+			<latitude>10.79676292469505</latitude>
+			<altitude>100.0750828398228</altitude>
+			<heading>351.1570533783772</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999981440722</gx:fovy>
+			<range>303120.9788235649</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B75EEFCFE2E84EF7545</styleUrl>
+		<LineString>
+			<coordinates>
+				92.43811106738447,11.21552330988462,0 92.43912375816522,11.10678458261938,0 92.44304081010611,10.96687236973066,0 92.44726135219713,10.8251006180075,0 92.45145969313863,10.65773814423374,0 92.4523670899824,10.56294281378571,0 92.45554142666504,10.42864681404023,0 92.46347924965008,10.28916163113272,0 92.46732784950044,10.16277839724871,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
