@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>earth_quake_past_events</name>
+	<gx:CascadingStyle kml:id="__managed_style_091B84565E2E8B5014A8">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_124CF9383D2E8B5014A7">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FC94D0ADC2E8B5014A7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_124CF9383D2E8B5014A7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_091B84565E2E8B5014A8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0B4D3D732E2E85E3272A">
+		<name>earthquake_4_2006</name>
+		<LookAt>
+			<longitude>93.38046502137013</longitude>
+			<latitude>10.37274930880673</latitude>
+			<altitude>40.01676546689621</altitude>
+			<heading>27.79023950749794</heading>
+			<tilt>14.56314457964503</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>361215.6575777382</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FC94D0ADC2E8B5014A7</styleUrl>
+		<Point>
+			<coordinates>92.38270934426694,10.67146696225318,57.55331303413065</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01E5908BAA2E85E66E4B">
+		<name>earthquake_1_1925</name>
+		<LookAt>
+			<longitude>92.57558142274706</longitude>
+			<latitude>10.29734820759154</latitude>
+			<altitude>12.90855694519158</altitude>
+			<heading>27.33871997502071</heading>
+			<tilt>13.96556925928204</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>167199.3479955755</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FC94D0ADC2E8B5014A7</styleUrl>
+		<Point>
+			<coordinates>92.84174636857676,10.241562541483,-27.24954861968956</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="087290990B2E85E79B4C">
+		<name>earthquake_2_1936</name>
+		<LookAt>
+			<longitude>92.77409706308239</longitude>
+			<latitude>10.47674300517948</latitude>
+			<altitude>14.63719630964579</altitude>
+			<heading>27.37379070927807</heading>
+			<tilt>13.9655653826959</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>167197.5679559447</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FC94D0ADC2E8B5014A7</styleUrl>
+		<Point>
+			<coordinates>92.57701924877391,10.52891415864959,-42.61408585731278</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0372ACB1F62E85E8EE40">
+		<name>earthquake_3_1945</name>
+		<LookAt>
+			<longitude>92.70877675069001</longitude>
+			<latitude>10.90052232879252</latitude>
+			<altitude>19.41477993264655</altitude>
+			<heading>27.35657112315344</heading>
+			<tilt>13.87657695913018</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>125152.3910614662</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FC94D0ADC2E8B5014A7</styleUrl>
+		<Point>
+			<coordinates>92.50581475615121,11.00705930795405,14.20854500194249</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01003D97842E85EA4722">
+		<name>origin_region_eq_3</name>
+		<LookAt>
+			<longitude>92.62078452241605</longitude>
+			<latitude>10.87965826081299</latitude>
+			<altitude>14.08242793942884</altitude>
+			<heading>27.33568787027852</heading>
+			<tilt>13.87166383924605</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>122830.9227095917</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FC94D0ADC2E8B5014A7</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						92.5024085729026,11.03042592704418,0 92.48939051114989,11.01444135375545,0 92.49742411345265,11.00095677081063,0 92.51464179688652,11.00224204158481,0 92.5172717916743,11.02529146313553,0 92.5024085729026,11.03042592704418,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="01E9993DA22E85EBFF30">
+		<name>origin_region_eq_4</name>
+		<LookAt>
+			<longitude>92.50547859304721</longitude>
+			<latitude>10.61522183696996</latitude>
+			<altitude>142.0497755344844</altitude>
+			<heading>27.30815409023575</heading>
+			<tilt>13.73538838460216</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>58444.09460023977</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FC94D0ADC2E8B5014A7</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						92.37608904632981,10.68177541581615,0 92.37447523259884,10.67542916500269,0 92.380737868178,10.66612026263695,0 92.38784716559022,10.66893729737529,0 92.39496296876547,10.67939632005158,0 92.3845733082525,10.68983921697009,0 92.37608904632981,10.68177541581615,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="042C5BA5402E85ECA4D5">
+		<name>origin_region_eq_3</name>
+		<LookAt>
+			<longitude>92.57096325059446</longitude>
+			<latitude>10.52198740320736</latitude>
+			<altitude>-2.828029998303813</altitude>
+			<heading>27.30274665669167</heading>
+			<tilt>13.64446655662278</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>15483.53974243859</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FC94D0ADC2E8B5014A7</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						92.57701863064652,10.52788005013478,0 92.58034493823784,10.52780104929876,0 92.57452059918775,10.53272133981545,0 92.57701863064652,10.52788005013478,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0DCC8942B92E85EDB521">
+		<name>origin_region_eq_1</name>
+		<LookAt>
+			<longitude>92.84811528953684</longitude>
+			<latitude>10.23868289196028</latitude>
+			<altitude>16.52231867597671</altitude>
+			<heading>27.33382052298165</heading>
+			<tilt>13.65037822621205</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>18276.77199767204</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FC94D0ADC2E8B5014A7</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						92.84133702112547,10.24427767608254,0 92.83874975504082,10.24453430336123,0 92.84069021343831,10.23947111185101,0 92.84448944974454,10.23944188710371,0 92.84625414598824,10.24184124792907,0 92.84133702112547,10.24427767608254,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="008B5C4F032E8B50AB9B">
+		<name>required</name>
+		<LookAt>
+			<longitude>92.88144615663724</longitude>
+			<latitude>10.7801443367987</latitude>
+			<altitude>-50.00089504156578</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>377964.4064721465</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FC94D0ADC2E8B5014A7</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						92.12074759934309,10.17813717904807,0 92.91191247280088,10.20393222588004,0 92.87737273054293,11.17327587750615,0 91.93213462901365,11.18474470001259,0 92.12074759934309,10.17813717904807,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
