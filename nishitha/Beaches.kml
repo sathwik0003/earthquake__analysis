@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Beaches</name>
+	<gx:CascadingStyle kml:id="__managed_style_125FAD8D842EF160F97F">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=42a5f5&amp;id=2039&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_234657AD9C2EF160F97F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=42a5f5&amp;id=2039&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00D3F333072EF160F97F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_125FAD8D842EF160F97F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_234657AD9C2EF160F97F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="029E9E07A82EF0FE5631">
+		<name>sister beach</name>
+		<LookAt>
+			<longitude>92.7260273252744</longitude>
+			<latitude>11.21674885502696</latitude>
+			<altitude>-7.899739717520906</altitude>
+			<heading>0.504639282352661</heading>
+			<tilt>74.54917113134195</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>39943.80450949074</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00D3F333072EF160F97F</styleUrl>
+		<Point>
+			<coordinates>92.72819368131867,11.14631117585757,28.67714415001241</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B4BB159512EF103E834">
+		<name>Kalapatthar Beach</name>
+		<LookAt>
+			<longitude>92.57504663583987</longitude>
+			<latitude>10.65773023191471</latitude>
+			<altitude>45.9202689667998</altitude>
+			<heading>-85.24496802372052</heading>
+			<tilt>73.71723571538463</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1775.219246425841</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00D3F333072EF160F97F</styleUrl>
+		<Point>
+			<coordinates>92.58207820012019,10.65850397278838,38.44218256058164</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07506195262EF104377A">
+		<name>Back beach of Kalapathar</name>
+		<LookAt>
+			<longitude>92.57504663583987</longitude>
+			<latitude>10.65773023191471</latitude>
+			<altitude>45.9202689667998</altitude>
+			<heading>-85.24496802372057</heading>
+			<tilt>73.71723571538462</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1775.219246425841</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00D3F333072EF160F97F</styleUrl>
+		<Point>
+			<coordinates>92.57886809963672,10.65822122506765,30.32310948995596</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B81B843F42EF1046CF3">
+		<name>AbhiRohi Beach</name>
+		<LookAt>
+			<longitude>92.57504663583987</longitude>
+			<latitude>10.65773023191471</latitude>
+			<altitude>45.9202689667998</altitude>
+			<heading>-85.24496802372057</heading>
+			<tilt>73.71723571538462</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1775.219246425841</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00D3F333072EF160F97F</styleUrl>
+		<Point>
+			<coordinates>92.57529847114979,10.65355599739402,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FE12DDA132EF10C2C70">
+		<name>Chattan Beach</name>
+		<LookAt>
+			<longitude>92.56795130457738</longitude>
+			<latitude>10.58200415056809</latitude>
+			<altitude>30.67361644700083</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>2036.823512453994</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00D3F333072EF160F97F</styleUrl>
+		<Point>
+			<coordinates>92.56886729633415,10.58091238576728,30.43495694782407</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0185B2C9AE2EF1217389">
+		<name>Richardson Lighthouse</name>
+		<LookAt>
+			<longitude>92.49863797203966</longitude>
+			<latitude>10.51583009837022</latitude>
+			<altitude>33.48136316351874</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>4965.779154018383</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00D3F333072EF160F97F</styleUrl>
+		<Point>
+			<coordinates>92.50446170217275,10.51196237478059,28.90802690072602</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F57BFF6252EF121F69D">
+		<name>John Richardson Beach</name>
+		<LookAt>
+			<longitude>92.54362123655567</longitude>
+			<latitude>10.55358685431657</latitude>
+			<altitude>34.44473431197138</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>4964.815707568197</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00D3F333072EF160F97F</styleUrl>
+		<Point>
+			<coordinates>92.54421406058846,10.54887867469502,27.42072810567616</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0468F4A50A2EF13A579C">
+		<name>Ganga Beach</name>
+		<LookAt>
+			<longitude>92.55012600096042</longitude>
+			<latitude>10.6345715981928</latitude>
+			<altitude>25.94883895239336</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>829.2766119858425</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00D3F333072EF160F97F</styleUrl>
+		<Point>
+			<coordinates>92.55014515601097,10.63455040635354,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07BE855E882EF13B7652">
+		<name>Anza Beach</name>
+		<LookAt>
+			<longitude>92.54504423107005</longitude>
+			<latitude>10.62503756064708</latitude>
+			<altitude>18.94827553038956</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1896.529318108514</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00D3F333072EF160F97F</styleUrl>
+		<Point>
+			<coordinates>92.54216,10.622292,38.9125542409131</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03E7A5CF2E2EF13C6C28">
+		<name>Sula Beach</name>
+		<LookAt>
+			<longitude>92.54455899682415</longitude>
+			<latitude>10.54756442750115</latitude>
+			<altitude>20.51835745962884</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>811.582461793005</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00D3F333072EF160F97F</styleUrl>
+		<Point>
+			<coordinates>92.54377172520425,10.54629803872579,34.27251974044251</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C9CDE8CD02EF13D2E29">
+		<name>Hutbay Beach</name>
+		<LookAt>
+			<longitude>92.5650233403782</longitude>
+			<latitude>10.59131137375048</latitude>
+			<altitude>15.75361513346301</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2228.083393583656</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00D3F333072EF160F97F</styleUrl>
+		<Point>
+			<coordinates>92.56280571590092,10.58697575993904,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05F26ADC372EF13E07CD">
+		<name>ButlerBay Beach</name>
+		<LookAt>
+			<longitude>92.58337027727458</longitude>
+			<latitude>10.68769262765929</latitude>
+			<altitude>51.11737968614369</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7815.387860251358</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00D3F333072EF160F97F</styleUrl>
+		<Point>
+			<coordinates>92.58204959999999,10.6779211,46.71471287801949</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
