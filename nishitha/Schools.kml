@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Schools</name>
+	<gx:CascadingStyle kml:id="__managed_style_1A40480C6F2EF13485E0">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=bdbdbd&amp;id=2304&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_04F332F0512EF13485E0">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=bdbdbd&amp;id=2304&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_09D56909232EF13485DF">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_04F332F0512EF13485E0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1A40480C6F2EF13485E0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="07C08836C62EF100EF05">
+		<name>VK Pur Govt.Secondary School</name>
+		<LookAt>
+			<longitude>92.56282450179656</longitude>
+			<latitude>10.74379167604133</latitude>
+			<altitude>31.31785186159097</altitude>
+			<heading>0.5040517257378931</heading>
+			<tilt>74.20727995085906</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>435.4160967149801</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09D56909232EF13485DF</styleUrl>
+		<Point>
+			<coordinates>92.56284874316503,10.7421346418695,34.61537782617804</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AC196AD012EF101F2FB">
+		<name>Ananda Marga Primary School</name>
+		<LookAt>
+			<longitude>92.57004559970798</longitude>
+			<latitude>10.69904054118473</latitude>
+			<altitude>61.05431101086857</altitude>
+			<heading>0.5040477848025542</heading>
+			<tilt>74.20492446729349</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>163.2176513282684</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09D56909232EF13485DF</styleUrl>
+		<Point>
+			<coordinates>92.57006387033027,10.69963459414404,58.89330919758774</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D6CBDF7A52EF107BD4D">
+		<name>Govt. Model Senior Secondary School</name>
+		<LookAt>
+			<longitude>92.5333530308299</longitude>
+			<latitude>10.59831648053469</latitude>
+			<altitude>27.5254131147957</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>749.5783969585318</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09D56909232EF13485DF</styleUrl>
+		<Point>
+			<coordinates>92.49048568753875,10.58810271790879,26.04537364010491</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05682F21AD2EF10B3EC1">
+		<name>Govt.Primary School Annanagar</name>
+		<LookAt>
+			<longitude>92.54790378341053</longitude>
+			<latitude>10.59004745741242</latitude>
+			<altitude>23.30087775141408</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>711.769798937312</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09D56909232EF13485DF</styleUrl>
+		<Point>
+			<coordinates>92.54765547857548,10.58961093669182,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D612575AF2EF10B93A6">
+		<name>St.Mary&apos;s School</name>
+		<LookAt>
+			<longitude>92.54794202375002</longitude>
+			<latitude>10.58925808697057</latitude>
+			<altitude>24.21903748257282</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>710.851641516274</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09D56909232EF13485DF</styleUrl>
+		<Point>
+			<coordinates>92.54773566019753,10.58832178518036,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="032EEB62E22EF10D0E9B">
+		<name>Govt.primary School</name>
+		<LookAt>
+			<longitude>92.53650798150932</longitude>
+			<latitude>10.5917889257546</latitude>
+			<altitude>23.18656396120651</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>408.8943869643845</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09D56909232EF13485DF</styleUrl>
+		<Point>
+			<coordinates>92.53618173677378,10.59158037095163,22.07312392719882</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0182BBD4E42EF10E443C">
+		<name>Green Islland School</name>
+		<LookAt>
+			<longitude>92.56733173720458</longitude>
+			<latitude>10.73235608092284</latitude>
+			<altitude>38.11905569775166</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>4498.762023008313</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09D56909232EF13485DF</styleUrl>
+		<Point>
+			<coordinates>92.56580949653679,10.73090199867363,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="098B9718B22EF10F321E">
+		<name>Govt.Middle School</name>
+		<LookAt>
+			<longitude>92.55822170011231</longitude>
+			<latitude>10.721503647573</latitude>
+			<altitude>65.32635221685474</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>2084.993424493005</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09D56909232EF13485DF</styleUrl>
+		<Point>
+			<coordinates>92.55611210078983,10.72014219886118,62.18546913126966</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08CDBA59F52EF11029A4">
+		<name>Govt.Senior Secondary school PK Pur</name>
+		<LookAt>
+			<longitude>92.56624797565803</longitude>
+			<latitude>10.69609082455428</latitude>
+			<altitude>65.79073133057827</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>599.8025712013623</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09D56909232EF13485DF</styleUrl>
+		<Point>
+			<coordinates>92.56707788664301,10.69545850023212,65.15850377318544</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0155E592952EF112F478">
+		<name>Vivekananda kendra vidyalaya, hutbay</name>
+		<LookAt>
+			<longitude>92.53211280527084</longitude>
+			<latitude>10.60919846507088</latitude>
+			<altitude>26.10657419112983</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>210.2070123438899</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09D56909232EF13485DF</styleUrl>
+		<Point>
+			<coordinates>92.53202630694243,10.60891479303955,30.08212225884654</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C511DE38A2EF1228A79">
+		<name>Govt.Secondary School,Harminder Bay</name>
+		<LookAt>
+			<longitude>92.54355712683606</longitude>
+			<latitude>10.56525705376715</latitude>
+			<altitude>44.19128103156557</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>601.6094041370525</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09D56909232EF13485DF</styleUrl>
+		<Point>
+			<coordinates>92.54420983865805,10.56491468159596,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
