@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>islands</name>
+	<gx:CascadingStyle kml:id="__managed_style_2958425EE92EED6B3443">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=26a69a&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1EED27F5EB2EED6B3443">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=26a69a&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FCE17943F2EED6B3443">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1EED27F5EB2EED6B3443</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2958425EE92EED6B3443</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0F82E0A4132E8B86E6BF">
+		<name>south sentinel island</name>
+		<LookAt>
+			<longitude>92.2210571503455</longitude>
+			<latitude>10.97718495074184</latitude>
+			<altitude>36.36641870894451</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1851.801743126416</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FCE17943F2EED6B3443</styleUrl>
+		<Point>
+			<coordinates>92.22008780242629,10.97819101708522,44.26103320681274</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C177BB23D2E8B8AA5F4">
+		<name>north brother island</name>
+		<LookAt>
+			<longitude>92.65890376002753</longitude>
+			<latitude>10.98354508034224</latitude>
+			<altitude>7.069545132482322</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>14527.97886781627</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FCE17943F2EED6B3443</styleUrl>
+		<Point>
+			<coordinates>92.66147522161535,10.98712871137983,36.77016568278356</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A9D630A492E8B8BCF48">
+		<name>richa^priyanshu</name>
+		<LookAt>
+			<longitude>92.64563767200507</longitude>
+			<latitude>10.9542315367018</latitude>
+			<altitude>-2.995626388875695</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>20724.71809878247</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FCE17943F2EED6B3443</styleUrl>
+		<Point>
+			<coordinates>92.61024545801806,10.93309002031891,33.18529433786841</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

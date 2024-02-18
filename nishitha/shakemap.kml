@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>shakemap</name>
+	<gx:CascadingStyle kml:id="__managed_style_13302A7CEB2EED6B3E13">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2079&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00C93345DB2EED6B3E13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_13302A7CEB2EED6B3E13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_064256A8C32EED6B3E14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_24B6B992092EED6B3E12">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=f57c00&amp;id=2079&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_064256A8C32EED6B3E14">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2079&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_155ACC5F722EED6B3E12">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=f57c00&amp;id=2079&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0CC09A124D2EED6B3E10">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=f57c00&amp;id=2079&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_172D51E6022EED6B3E0F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=f57c00&amp;id=2079&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02CD9725382EED6B3E12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_155ACC5F722EED6B3E12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_24B6B992092EED6B3E12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0FEC9129122EED6B3E0F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_172D51E6022EED6B3E0F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0CC09A124D2EED6B3E10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0EF322F3582E8BB7BC26">
+		<name>shakepoint1</name>
+		<description><![CDATA[<div>Shallow depth<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>92.1353470831734</longitude>
+			<latitude>10.87149901645036</latitude>
+			<altitude>137.2001499883209</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99928149151042</gx:fovy>
+			<range>151593.0404031649</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FEC9129122EED6B3E0F</styleUrl>
+		<Point>
+			<coordinates>91.82555737070163,10.9919943007002,-46.40790601581998</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="023AFFB1DF2E8BBA2254">
+		<name>shakepoint2</name>
+		<description><![CDATA[<div>Shallow depth<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>92.21758656902006</longitude>
+			<latitude>10.75484285515215</latitude>
+			<altitude>15.43746963245775</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99928149151042</gx:fovy>
+			<range>70960.85267353803</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FEC9129122EED6B3E0F</styleUrl>
+		<Point>
+			<coordinates>92.36199999999998,10.672,-8.644395004542243</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A5004A8CF2E8BBADF62">
+		<name>shakepoint3</name>
+		<description><![CDATA[<div>Shallow Depth<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>92.21758656902006</longitude>
+			<latitude>10.75484285515215</latitude>
+			<altitude>15.43746963245775</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99928149151042</gx:fovy>
+			<range>70960.85267353803</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FEC9129122EED6B3E0F</styleUrl>
+		<Point>
+			<coordinates>92.361,10.653,-8.106704356364332</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="081BD18CE52E8BBB7127">
+		<name>shakepoint4</name>
+		<LookAt>
+			<longitude>91.77038292381451</longitude>
+			<latitude>10.95984057784136</latitude>
+			<altitude>-26.21909893633779</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99928149151042</gx:fovy>
+			<range>252979.8494140059</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02CD9725382EED6B3E12</styleUrl>
+		<Point>
+			<coordinates>91.7115,10.5407,20.1573889214704</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CCD3C20432E8BBC44DE">
+		<name>shakepoint5</name>
+		<description><![CDATA[<div>Greater depths<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>92.83854217189558</longitude>
+			<latitude>10.92313884497888</latitude>
+			<altitude>-20.74413797455592</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99928149151042</gx:fovy>
+			<range>304750.2609645948</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00C93345DB2EED6B3E13</styleUrl>
+		<Point>
+			<coordinates>93.24556550901357,10.91838814962721,-31.99880579443264</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06272B8F4D2E8BBD068D">
+		<name>shakepoint6</name>
+		<description><![CDATA[<div>Greater depth<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>92.83854217189558</longitude>
+			<latitude>10.92313884497888</latitude>
+			<altitude>-20.74413797455592</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99928149151042</gx:fovy>
+			<range>304750.2609645948</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00C93345DB2EED6B3E13</styleUrl>
+		<Point>
+			<coordinates>93.54324575103091,10.51183251262078,81.05830191092267</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

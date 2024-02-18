@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>epicenters</name>
+	<gx:CascadingStyle kml:id="__managed_style_2188E6179E2EED6B61F7">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_111920647B2EED6B61F7">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00212DD0D52EED6B61F7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_111920647B2EED6B61F7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2188E6179E2EED6B61F7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="03041E4DE12E85AF1DC8">
+		<name>epicenter 1</name>
+		<description><![CDATA[<div>epicentre of the tremor was latitude 10.6 degree north and longitude 92.8 degree east with a focal depth of 30 km.<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>92.48820986661032</longitude>
+			<latitude>10.6971682075686</latitude>
+			<altitude>117.480761834269</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>231367.6525063813</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00212DD0D52EED6B61F7</styleUrl>
+		<Point>
+			<coordinates>92.8,10.6,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B40BB75BE2E85AF2BFA">
+		<name>epicenter 2</name>
+		<description><![CDATA[<div>28 June 1925 - SE of Little Andaman Island, India<br></div><div>13:41:35.0 UTC, 10.20&nbsp;N,&nbsp;92.80&nbsp;E<br></div>]]></description>
+		<LookAt>
+			<longitude>92.48820986661032</longitude>
+			<latitude>10.6971682075686</latitude>
+			<altitude>117.480761834269</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>231367.6525063813</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00212DD0D52EED6B61F7</styleUrl>
+		<Point>
+			<coordinates>92.8,10.2,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B48ED94E42E85AF3931">
+		<name>epicenter 4</name>
+		<description><![CDATA[<div>8 August 1945 - North of Little Andaman Island, India, Ms 6.7<br></div><div>09:53:40.0 UTC, 11.00&nbsp;N,&nbsp;92.50&nbsp;E<br></div>]]></description>
+		<LookAt>
+			<longitude>92.48820986661032</longitude>
+			<latitude>10.6971682075686</latitude>
+			<altitude>117.480761834269</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>231367.6525063813</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00212DD0D52EED6B61F7</styleUrl>
+		<Point>
+			<coordinates>92.49999999999999,11,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0890D506482E85AF48F2">
+		<name>epicenter 3</name>
+		<description><![CDATA[<div>19 March 1936 - Little Andaman Island, India, Ms 6.5<br></div><div>09:04:05.0 UTC, 10.50&nbsp;N,&nbsp;92.50&nbsp;E<br></div>]]></description>
+		<LookAt>
+			<longitude>92.48820986661032</longitude>
+			<latitude>10.6971682075686</latitude>
+			<altitude>117.480761834269</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>231367.6525063813</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00212DD0D52EED6B61F7</styleUrl>
+		<Point>
+			<coordinates>92.49999999999999,10.5,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00C11CD0D32E85B386AC">
+		<name>epicenter 5</name>
+		<description><![CDATA[<div>23 December 2006 - Koname, Little Andaman Island, Mw 6.3<br></div><div>10.681 N, 92.390 E, D=017.0 kms, OT=19:50:47 UTC<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>92.34699405850345</longitude>
+			<latitude>10.73374559233412</latitude>
+			<altitude>98.41879132473541</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>317007.4002577365</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00212DD0D52EED6B61F7</styleUrl>
+		<Point>
+			<coordinates>92.39000000000001,10.681,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AD31A8F962E85B489D6">
+		<name>epicenter 6</name>
+		<description><![CDATA[<div>1992/12/08- Little Andaman Island, Mw 6.7<br></div><div>10.3 N, 93.1 E<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>92.34699405850345</longitude>
+			<latitude>10.73374559233412</latitude>
+			<altitude>98.41879132473541</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>317007.4002577365</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00212DD0D52EED6B61F7</styleUrl>
+		<Point>
+			<coordinates>93.09999999999998,10.3,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AECC949492E85B5B3E6">
+		<name>epicenter 7</name>
+		<description><![CDATA[<div>2008/06/27 - Little Andaman Island, Mw 6.6<br></div><div>11.01 N, 91.82 E OT=11:00:00 UTC<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>92.34699405850345</longitude>
+			<latitude>10.73374559233412</latitude>
+			<altitude>98.41879132473541</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>317007.4002577365</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00212DD0D52EED6B61F7</styleUrl>
+		<Point>
+			<coordinates>91.81999999999999,11.01,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04845BC67B2E85B837E3">
+		<name>epicenter 8</name>
+		<description><![CDATA[<div>2010/05/31- Little Andaman Island, Mw 6.5<br></div><div>11.01 N, 91.82 E OT=19:00:00 UTC<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>92.34699405850345</longitude>
+			<latitude>10.73374559233412</latitude>
+			<altitude>98.41879132473541</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>317007.4002577365</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00212DD0D52EED6B61F7</styleUrl>
+		<Point>
+			<coordinates>93.46999999999998,11.31,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
