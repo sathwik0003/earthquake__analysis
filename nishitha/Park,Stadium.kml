@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Park,Stadium</name>
+	<gx:CascadingStyle kml:id="__managed_style_217FD162572EF165765C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=66bb6a&amp;id=2370&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17BBF74D192EF165765C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=66bb6a&amp;id=2370&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_01C644BCE42EF165765C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17BBF74D192EF165765C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_217FD162572EF165765C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0DA32A8EDE2EF1005570">
+		<name>Park</name>
+		<LookAt>
+			<longitude>92.56199473793157</longitude>
+			<latitude>10.74279385407368</latitude>
+			<altitude>33.14500876223303</altitude>
+			<heading>0.5040497884341129</heading>
+			<tilt>74.20611923097294</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>301.2836439816965</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01C644BCE42EF165765C</styleUrl>
+		<Point>
+			<coordinates>92.56219869193147,10.74232296088593,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05A0BE4E532EF106F07E">
+		<name>Play Ground ,Hutbay</name>
+		<LookAt>
+			<longitude>92.53432236323776</longitude>
+			<latitude>10.59885212586033</latitude>
+			<altitude>24.2318178759649</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>752.8720728931512</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01C644BCE42EF165765C</styleUrl>
+		<Point>
+			<coordinates>92.53448036961542,10.59877546608367,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EAF9D0E902EF10AA7D6">
+		<name>Children Park</name>
+		<LookAt>
+			<longitude>92.54560363635196</longitude>
+			<latitude>10.59142712168359</latitude>
+			<altitude>23.65256935472886</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>711.4181483998254</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01C644BCE42EF165765C</styleUrl>
+		<Point>
+			<coordinates>92.54587578550249,10.59167485291471,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05715F03A02EF10ADBCA">
+		<name>4g park hutbay</name>
+		<LookAt>
+			<longitude>92.54560363635196</longitude>
+			<latitude>10.59142712168359</latitude>
+			<altitude>23.65256935472886</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>711.4181483998254</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01C644BCE42EF165765C</styleUrl>
+		<Point>
+			<coordinates>92.547358586238,10.59154405890356,22.97252023099499</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="042C17B7912EF1110647">
+		<name>Mini Stadium</name>
+		<LookAt>
+			<longitude>92.56693429037198</longitude>
+			<latitude>10.69669474236168</latitude>
+			<altitude>59.00938629185379</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>165.0631560884904</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01C644BCE42EF165765C</styleUrl>
+		<Point>
+			<coordinates>92.56732462505343,10.69655412059556,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="007BA134BD2EF114501F">
+		<name>Children Park</name>
+		<LookAt>
+			<longitude>92.52961818444541</longitude>
+			<latitude>10.59009537464614</latitude>
+			<altitude>25.47789161059483</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>419.8690729716327</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01C644BCE42EF165765C</styleUrl>
+		<Point>
+			<coordinates>92.52905669634588,10.58933537248804,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
