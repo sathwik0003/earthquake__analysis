@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Hospitals</name>
+	<gx:CascadingStyle kml:id="__managed_style_22479C3C132EF12CD0EF">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1BE057F3612EF12CD0EF">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2211&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0618177E262EF12CD0EF">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1BE057F3612EF12CD0EF</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_22479C3C132EF12CD0EF</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0FBED393A42EF108D3AE">
+		<name>Hutbay Govt. Hospital</name>
+		<LookAt>
+			<longitude>92.53687726436834</longitude>
+			<latitude>10.59435672116528</latitude>
+			<altitude>24.25340517003462</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>752.8503786601505</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0618177E262EF12CD0EF</styleUrl>
+		<Point>
+			<coordinates>92.53724212421112,10.59456692379963,23.05254350176308</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F39E11B9D2EF114C6EF">
+		<name>Medical Sub center</name>
+		<LookAt>
+			<longitude>92.52967866318515</longitude>
+			<latitude>10.588079506284</latitude>
+			<altitude>29.57246996075432</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000000000114</gx:fovy>
+			<range>415.7745182687358</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0618177E262EF12CD0EF</styleUrl>
+		<Point>
+			<coordinates>92.529784150176,10.58773301704941,33.5265140370481</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09DB9D3AB62EF12BFB62">
+		<name>Veterinary Hospital,RamaKrishna Pur</name>
+		<LookAt>
+			<longitude>92.570213228485</longitude>
+			<latitude>10.69368153028716</latitude>
+			<altitude>64.50211476997856</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>168.8653717306625</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0618177E262EF12CD0EF</styleUrl>
+		<Point>
+			<coordinates>92.57019767892912,10.69377036059815,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="074BD821FF2EF12E0003">
+		<name>Primary Helath Center, RK Pur</name>
+		<LookAt>
+			<longitude>92.56813204937575</longitude>
+			<latitude>10.69655638517021</latitude>
+			<altitude>63.76805559751902</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>419.4845102430555</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0618177E262EF12CD0EF</styleUrl>
+		<Point>
+			<coordinates>92.56850215841025,10.69580578329856,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B55D593D02EF130EF96">
+		<name>Health and Fitness Center</name>
+		<LookAt>
+			<longitude>92.54180617347296</longitude>
+			<latitude>10.56561959378357</latitude>
+			<altitude>47.33662078721387</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>563.8985228747333</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0618177E262EF12CD0EF</styleUrl>
+		<Point>
+			<coordinates>92.54266551735346,10.56456535946402,52.22338224194249</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
