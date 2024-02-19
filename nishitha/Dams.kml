@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Dams</name>
+	<gx:CascadingStyle kml:id="__managed_style_0ED5A14D5F2EF6E9F1E5">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1CE0C6115F2EF6E9F1E4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_023B48F0782EF6E9F1E4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1CE0C6115F2EF6E9F1E4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0ED5A14D5F2EF6E9F1E5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0343E8392C2EF6E9F1E4">
+		<name>Vishnu Nallah Minor Irrigation Dam</name>
+		<LookAt>
+			<longitude>92.53382550495672</longitude>
+			<latitude>10.70888986140016</latitude>
+			<altitude>77.19085148387617</altitude>
+			<heading>13.58099250923593</heading>
+			<tilt>5.395607094043054</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>734.0290554552485</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_023B48F0782EF6E9F1E4</styleUrl>
+		<Point>
+			<coordinates>92.53342303902417,10.70812106532997,73.92232690328686</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="038A91776B2EF6EA8A1A">
+		<name>Rama Krishna Pur Dam</name>
+		<LookAt>
+			<longitude>92.55181823893993</longitude>
+			<latitude>10.70007618501926</latitude>
+			<altitude>67.55825445228476</altitude>
+			<heading>13.58392579174674</heading>
+			<tilt>5.395030545256581</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>52.15969240400227</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_023B48F0782EF6E9F1E4</styleUrl>
+		<Point>
+			<coordinates>92.55171158129757,10.70007590174081,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Bridges</name>
+	<gx:CascadingStyle kml:id="__managed_style_29A31610B42EF522E3F2">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1956B2BFC32EF522E3F2">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0574D1F1472EF522E3F2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1956B2BFC32EF522E3F2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29A31610B42EF522E3F2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="05A20975442EF522E3F2">
+		<name>Butler bay bridge</name>
+		<LookAt>
+			<longitude>92.57517617470563</longitude>
+			<latitude>10.66869650361536</latitude>
+			<altitude>40.19645252488704</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>331.6164463950191</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0574D1F1472EF522E3F2</styleUrl>
+		<LineString>
+			<coordinates>
+				92.57479166129627,10.66811000076756,0 92.57496087374832,10.66912121744255,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="09DECB82F62EF523CBD6">
+		<name>Harminder bay Bridge</name>
+		<LookAt>
+			<longitude>92.54374714581533</longitude>
+			<latitude>10.54923510164112</latitude>
+			<altitude>32.73156474736993</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>267.184968401998</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0574D1F1472EF522E3F2</styleUrl>
+		<LineString>
+			<coordinates>
+				92.5438030363058,10.5489899259712,0 92.54416805893297,10.54959420695438,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
